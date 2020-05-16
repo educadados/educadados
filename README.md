@@ -19,11 +19,6 @@ Atualmente nosso objetivo geral é de analisar os dados educacionais da Prefeitu
 
 **Difusão de conhecimentos:** acreditamos que para o real controle social e transparência, estes dados devem ser analisados por toda a comunidade. Como grupo, entendemos que nenhuma análise que fizermos será capaz de abarcar toda a realidade e complexidade do sistema educacional, faltando sempre responder perguntas importantes. Procuramos assim, disponibilizar tanto as análises que fazemos como as metodologias utilizadas (através de documentação e códigos) para que, a partir delas, outras pessoas e grupos possam construir novos entendimentos sobre suas próprias realidades.
 
-## Quais os planos para o futuro?
-Estamos trabalhando em dois horizontes. Neste ano estamos consolidando os dados que já fizemos no passado de uma maneira que seja auditável, facilmente replicável por outros pesquisadores e de maneira mais automática, o que agilizará nosso trabalho futuro. Para isto, estamos focando na linguagem de programação Python e na criação de manuais de como fizemos as análises. Outro foco deste ano é a análise mais detalhada dos dados de Educação Especial do Município de São Paulo.
-
-Em um horizonte maior de tempo, nosso objetivo é criar um observatório da educação, no qual possamos centralizar estes dados e informações para todos os públicos, mas isto está bem mais para o futuro.
-
 ## Como conhecer melhor o projeto?
 
 ### Redes sociais:
