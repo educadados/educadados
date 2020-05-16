@@ -63,6 +63,8 @@ Twitter: https://twitter.com/educadados1
 
 Instagram: https://www.instagram.com/educadados/
 
+LinkedIn: https://www.linkedin.com/company/educadados-fe-usp/
+
 ### Entrevistas
 Podcast Pra Vermelhor - Transparência na Educação: https://open.spotify.com/episode/5FO4rRHSfZM6Vq0NuuoV3p
 
