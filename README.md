@@ -1,7 +1,7 @@
 # EducaDados - Conhecendo o projeto
 
 ## O que é?
-O EducaDados é uma organização estudantil criada e gerida por alunos da Faculdade de Educação da Universidade de São Paulo (FE-USP), cujo intuito é **fazer o controle social das políticas públicas educacionais através da análise de dados**, sendo que estes devem ser prioritariamente abertos ao público em geral.
+O EducaDados é uma organização cujo intuito é fazer o **controle social das políticas públicas educacionais através da análise de dados**, sendo que estes devem ser prioritariamente abertos ao público em geral.
 
 Com isto, esperamos detectar as principais necessidades educacionais brasileiras, detectar pontos de acertos e erros nestas políticas públicas, evoluções e regressões em programas voltados à educação com o objetivo de apresentar um panorama da educação com uma linguagem simples e elucidativa para os diversos públicos interessados o tema da educação.	
 
