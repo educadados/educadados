@@ -17,7 +17,7 @@ Atualmente nosso objetivo geral é de analisar os dados educacionais da Prefeitu
 
 **Controle Social:** entendemos que a sociedade necessita saber o que está acontecendo na política pública educacional para que cobre uma melhoria contínua e pressione para conter retrocessos. Isso exige um acompanhamento constante de diversos indicadores educacionais para que não se verifique um problema anos depois em alguma pesquisa pontual.
 
-**Difusão de conhecimentos:** acreditamos que para 
+**Difusão de conhecimentos:** acreditamos que para o real controle social e transparência, estes dados devem ser analisados por toda a comunidade. Como grupo, entendemos que nenhuma análise que fizermos será capaz de abarcar toda a realidade e complexidade do sistema educacional, faltando sempre responder perguntas importantes. Procuramos assim, através de nossas análises, contribuir para que outras pessoas e grupos construir novos entendimentos sobre suas realidades.
 
 ## Quais foram suas dificuldades para trabalhar com estes dados? E o que já conseguiram realizar com eles?
 Acreditamos que a maior parte do problema é tecnológico. Como a rede do município de São Paulo conta com mais de um milhão de alunos e mais de 80 mil servidores só na área da educação. Isso significa que precisamos lidar com bases de dados de dezenas de milhões de linhas, quando analisamos a evolução ao longo de vários anos.
