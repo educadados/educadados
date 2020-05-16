@@ -8,10 +8,10 @@ Com isto, esperamos detectar as principais necessidades educacionais brasileiras
 ## Como surgiu a ideia do projeto?
 A entidade surgiu da carência de dados em uma perspectiva mais do dia a dia da escola. A maioria das análises de dados é realizada com fontes da esfera federal, como o Censo Escolar, o que não reflete a complexidade da realidade escolar, dado que cada município/estado possui suas próprias estruturas e nomenclaturas, o que auxilia no afastamento dos professores da discussão sobre desses dados.
 
-Os dados municipais e estaduais até existem, mas são dispersos ou de difícil análise. Para resolver esse problema, fizemos uma chamada aberta para juntarmos as pessoas interessadas em dados educacionais e formas de analisá-los.
+Alguns dados municipais e estaduais estão disponíveis para a população, mas são dispersos ou de difícil análise e há a necessidade de um conhecimento técnico e computacional que nem todos possuem. Para resolver esse problema, fizemos uma chamada aberta para juntarmos as pessoas interessadas em dados educacionais e formas de analisá-los.
 
 ## Quais os objetivos?
-Atualmente nosso objetivo geral é de analisar os dados educacionais da Prefeitura de São Paulo. Nisso estão incluídos todos os tipos de dados, informações sobre: alunos, servidores, orçamento, infraestrutura etc. Além da análise, algo que acreditamos ser muito relevante na entidade é um **foco na Transparência, no Controle Social e na difusão desses conhecimentos**.
+Atualmente nosso objetivo geral é de analisar os dados educacionais da Prefeitura de São Paulo. Nisso estão incluídos todos os tipos de dados, informações sobre: alunos, servidores, orçamento, infraestrutura etc. Além da análise, algo que acreditamos ser muito relevante na entidade é um **foco na Transparência, no Controle Social e na Difusão desses conhecimentos**.
  
 **Transparência:** queremos deixar esses dados, que estão muitas vezes em bases de dados de milhões de linhas e centenas de colunas, num formato mais claro, trazendo informações compreensíveis para uma parcela maior da população, principalmente a estudantes e profissionais ligados à àrea de educação.
 
