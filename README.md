@@ -28,6 +28,9 @@ Atualmente nosso objetivo geral é de analisar os dados educacionais da Prefeitu
 * **Twitter:** https://twitter.com/educadados1
 * **Instagram:** https://www.instagram.com/educadados/
 * **LinkedIn:** https://www.linkedin.com/company/educadados/
+* **GitHub:** https://github.com/educadados/educadados
+* **Youtube:**
+* **Podcast:**
 
 ### Entrevistas:
 * **Podcast Pra Vermelhor - Transparência na Educação:** https://open.spotify.com/episode/5FO4rRHSfZM6Vq0NuuoV3p
