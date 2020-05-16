@@ -54,10 +54,14 @@ Atualmente temos 2 formas de comunicação, nossa página no Facebook e um grupo
 
 ### Redes sociais:
 Facebook: https://www.facebook.com/educadados
+
 Telegram: https://t.me/educadados
+
 Medium: https://medium.com/@educadados
+
 Twitter: https://twitter.com/educadados1
 
 ### Entrevistas
 Podcast Pra Vermelhor - Transparência na Educação: https://open.spotify.com/episode/5FO4rRHSfZM6Vq0NuuoV3p
+
 Revista Futuro do Pretérito - págs. 20-22: http://www4.fe.usp.br/wp-content/uploads/rfp2-1.pdf
