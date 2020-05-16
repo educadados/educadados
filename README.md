@@ -60,7 +60,7 @@ Instagram: https://www.instagram.com/educadados/
 
 LinkedIn: https://www.linkedin.com/company/educadados-fe-usp/
 
-### Entrevistas
+### Entrevistas:
 Podcast Pra Vermelhor - Transparência na Educação: https://open.spotify.com/episode/5FO4rRHSfZM6Vq0NuuoV3p
 
 Revista Futuro do Pretérito - págs. 20-22: http://www4.fe.usp.br/wp-content/uploads/rfp2-1.pdf
