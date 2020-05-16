@@ -24,23 +24,16 @@ Estamos trabalhando em dois horizontes. Neste ano estamos consolidando os dados 
 
 Em um horizonte maior de tempo, nosso objetivo é criar um observatório da educação, no qual possamos centralizar estes dados e informações para todos os públicos, mas isto está bem mais para o futuro.
 
-## E para quem quiser saber mais sobre o EducaDados, como as pessoas interessadas devem fazer?
-Atualmente temos 2 formas de comunicação, nossa página no Facebook e um grupo no Telegram. Além disso, para quem tiver interesse em conhecer melhor o nosso trabalho, conversamos sobre Educação, Dados e Governo Aberto no Podcast Pra Vermelhor.
+## Como conhecer melhor o projeto?
 
-## Redes sociais:
-Facebook: https://www.facebook.com/educadados
-
-Telegram: https://t.me/educadados
-
-Medium: https://medium.com/@educadados
-
-Twitter: https://twitter.com/educadados1
-
-Instagram: https://www.instagram.com/educadados/
-
-LinkedIn: https://www.linkedin.com/company/educadados/
+### Redes sociais:
+* **Facebook:** https://www.facebook.com/educadados
+* **Telegram:** https://t.me/educadados
+* **Medium:** https://medium.com/@educadados
+* **Twitter:** https://twitter.com/educadados1
+* **Instagram:** https://www.instagram.com/educadados/
+* **LinkedIn:** https://www.linkedin.com/company/educadados/
 
 ## Entrevistas:
-Podcast Pra Vermelhor - Transparência na Educação: https://open.spotify.com/episode/5FO4rRHSfZM6Vq0NuuoV3p
-
-Revista Futuro do Pretérito - págs. 20-22: http://www4.fe.usp.br/wp-content/uploads/rfp2-1.pdf
+* **Podcast Pra Vermelhor - Transparência na Educação:** https://open.spotify.com/episode/5FO4rRHSfZM6Vq0NuuoV3p
+* **Revista Futuro do Pretérito - págs. 20-22:** http://www4.fe.usp.br/wp-content/uploads/rfp2-1.pdf
