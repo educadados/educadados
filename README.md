@@ -3,26 +3,23 @@
 ## O que é?
 O EducaDados é uma organização cujo intuito é fazer o **controle social das políticas públicas educacionais através da análise de dados**, sendo que estes devem ser prioritariamente abertos ao público em geral.
 
-Com isto, esperamos detectar as principais necessidades educacionais brasileiras, detectar pontos de acertos e erros nestas políticas públicas, evoluções e regressões em programas voltados à educação com o objetivo de apresentar um panorama da educação com uma linguagem simples e elucidativa para os diversos públicos interessados o tema da educação.	
+Com isto, esperamos detectar as principais necessidades educacionais brasileiras, pontos de acertos e erros nestas políticas públicas, evoluções e regressões em programas voltados à educação com o objetivo de apresentar um panorama da educação com uma linguagem simples e elucidativa para os diversos públicos interessados o tema da educação.	
 
-## Como surgiu a entidade?
+## Como surgiu a ideia do projeto?
 A entidade surgiu da carência de dados em uma perspectiva mais do dia a dia da escola. A maioria das análises de dados é realizada com fontes da esfera federal, como o Censo Escolar, o que não reflete a complexidade da realidade escolar, dado que cada município/estado possui suas próprias estruturas e nomenclaturas, o que auxilia no afastamento dos professores da discussão sobre desses dados.
 
-Os dados municipais e estaduais até existem, mas são dispersos ou de difícil análise. Para resolver esse problema, fizemos uma chamada na Faculdade de Educação da USP para juntarmos as pessoas interessadas em dados educacionais e formas de analisá-los.
-
-Em nossa primeira reunião, que aconteceu no início de 2019, tínhamos uma expectativa de que viriam pessoas com um perfil mais próximo ao dos alunos que estão na primeira graduação na Pedagogia, com menor conhecimento sobre análise de dados, que estivessem tendo contato com o tema por estarem envolvidos com pesquisas acadêmicas.
-
-O que aconteceu foi bastante inesperado, na primeira reunião todos os presentes já eram formados (alguns cursando mestrado até) em cursos diversos: Pedagogia, Ciências Sociais, Engenharia, Economia e Letras.
-Dessa forma, a entidade se modificou rapidamente e em vez de focarmos em ensinar as pessoas, focamos em realmente mergulhar nos dados educacionais, aprendendo todos em conjunto sobre os mesmos.
+Os dados municipais e estaduais até existem, mas são dispersos ou de difícil análise. Para resolver esse problema, fizemos uma chamada aberta para juntarmos as pessoas interessadas em dados educacionais e formas de analisá-los.
 
 ## Quais os objetivos?
-Atualmente nosso objetivo geral é de analisar os dados educacionais da Prefeitura de São Paulo. Nisso estão incluídos todos os tipos de dados, informações sobre: alunos, servidores, orçamentárias, de infraestrutura etc.
+Atualmente nosso objetivo geral é de analisar os dados educacionais da Prefeitura de São Paulo. Nisso estão incluídos todos os tipos de dados, informações sobre: alunos, servidores, orçamento, infraestrutura etc.
 
-Além da análise, algo que acreditamos ser muito relevante na entidade é um **foco na Transparência e no Controle Social**.
+Além da análise, algo que acreditamos ser muito relevante na entidade é um **foco na Transparência, no Controle Social e na difusão desses conhecimentos**.
  
-Pelo olhar da **Transparência**, queremos deixar esses dados, que estão muitas vezes em bases de dados de milhões de linhas e centenas de colunas, num formato mais claro, trazendo informações compreensíveis para uma parcela maior da população, principalmente a estudantes e profissionais ligados à àrea de educação.
+**Transparência:** queremos deixar esses dados, que estão muitas vezes em bases de dados de milhões de linhas e centenas de colunas, num formato mais claro, trazendo informações compreensíveis para uma parcela maior da população, principalmente a estudantes e profissionais ligados à àrea de educação.
 
-Em relação ao **Controle Social**, entendemos que a sociedade necessita saber o que está acontecendo na política pública educacional para que cobre uma melhoria contínua e pressione para conter retrocessos. Isso exige um acompanhamento constante de diversos indicadores educacionais para que não se verifique um problema anos depois em alguma pesquisa pontual.
+**Controle Social:** entendemos que a sociedade necessita saber o que está acontecendo na política pública educacional para que cobre uma melhoria contínua e pressione para conter retrocessos. Isso exige um acompanhamento constante de diversos indicadores educacionais para que não se verifique um problema anos depois em alguma pesquisa pontual.
+
+**Difusão de conhecimentos:** 
 
 ## Quais foram suas dificuldades para trabalhar com estes dados? E o que já conseguiram realizar com eles?
 Acreditamos que a maior parte do problema é tecnológico. Como a rede do município de São Paulo conta com mais de um milhão de alunos e mais de 80 mil servidores só na área da educação. Isso significa que precisamos lidar com bases de dados de dezenas de milhões de linhas, quando analisamos a evolução ao longo de vários anos.
