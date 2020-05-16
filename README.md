@@ -11,15 +11,13 @@ A entidade surgiu da carência de dados em uma perspectiva mais do dia a dia da 
 Os dados municipais e estaduais até existem, mas são dispersos ou de difícil análise. Para resolver esse problema, fizemos uma chamada aberta para juntarmos as pessoas interessadas em dados educacionais e formas de analisá-los.
 
 ## Quais os objetivos?
-Atualmente nosso objetivo geral é de analisar os dados educacionais da Prefeitura de São Paulo. Nisso estão incluídos todos os tipos de dados, informações sobre: alunos, servidores, orçamento, infraestrutura etc.
-
-Além da análise, algo que acreditamos ser muito relevante na entidade é um **foco na Transparência, no Controle Social e na difusão desses conhecimentos**.
+Atualmente nosso objetivo geral é de analisar os dados educacionais da Prefeitura de São Paulo. Nisso estão incluídos todos os tipos de dados, informações sobre: alunos, servidores, orçamento, infraestrutura etc. Além da análise, algo que acreditamos ser muito relevante na entidade é um **foco na Transparência, no Controle Social e na difusão desses conhecimentos**.
  
 **Transparência:** queremos deixar esses dados, que estão muitas vezes em bases de dados de milhões de linhas e centenas de colunas, num formato mais claro, trazendo informações compreensíveis para uma parcela maior da população, principalmente a estudantes e profissionais ligados à àrea de educação.
 
 **Controle Social:** entendemos que a sociedade necessita saber o que está acontecendo na política pública educacional para que cobre uma melhoria contínua e pressione para conter retrocessos. Isso exige um acompanhamento constante de diversos indicadores educacionais para que não se verifique um problema anos depois em alguma pesquisa pontual.
 
-**Difusão de conhecimentos:** 
+**Difusão de conhecimentos:** acreditamos que para 
 
 ## Quais foram suas dificuldades para trabalhar com estes dados? E o que já conseguiram realizar com eles?
 Acreditamos que a maior parte do problema é tecnológico. Como a rede do município de São Paulo conta com mais de um milhão de alunos e mais de 80 mil servidores só na área da educação. Isso significa que precisamos lidar com bases de dados de dezenas de milhões de linhas, quando analisamos a evolução ao longo de vários anos.
