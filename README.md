@@ -52,6 +52,12 @@ Em um horizonte maior de tempo, nosso objetivo é criar um observatório da educ
 ## E para quem quiser saber mais sobre o EducaDados, como as pessoas interessadas devem fazer?
 Atualmente temos 2 formas de comunicação, nossa página no Facebook e um grupo no Telegram. Além disso, para quem tiver interesse em conhecer melhor o nosso trabalho, conversamos sobre Educação, Dados e Governo Aberto no Podcast Pra Vermelhor.
 
-### Página do Facebook: https://www.facebook.com/educadados
-### Grupo do Telegram: https://t.me/educadados
-### Podcast Pra Vermelhor - Ep. 4 - Transparência na Educação Ft. Educadados: https://open.spotify.com/episode/5FO4rRHSfZM6Vq0NuuoV3p
+### Redes sociais:
+Facebook: https://www.facebook.com/educadados
+Telegram: https://t.me/educadados
+Medium: https://medium.com/@educadados
+Twitter: https://twitter.com/educadados1
+
+### Entrevistas
+Podcast Pra Vermelhor - Transparência na Educação: https://open.spotify.com/episode/5FO4rRHSfZM6Vq0NuuoV3p
+Revista Futuro do Pretérito - págs. 20-22: http://www4.fe.usp.br/wp-content/uploads/rfp2-1.pdf
