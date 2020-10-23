@@ -23,12 +23,12 @@ Atualmente nosso objetivo geral é de analisar os dados educacionais da Prefeitu
 
 ### Redes sociais:
 * **Facebook:** https://www.facebook.com/educadados
-* **Telegram:** https://t.me/educadados
-* **Medium:** https://medium.com/@educadados
-* **Twitter:** https://twitter.com/educadados1
 * **Instagram:** https://www.instagram.com/educadados/
+* **Telegram:** https://t.me/educadados
+* **Twitter:** https://twitter.com/educadados1
 * **LinkedIn:** https://www.linkedin.com/company/educadados/
 * **GitHub:** https://github.com/educadados/educadados
+* **Medium:** https://medium.com/@educadados
 * **Youtube:**
 * **Podcast:**
 
