@@ -1,0 +1,78 @@
+import pandas as pd
+import plotly.offline as py
+import plotly.graph_objs as go
+import matplotlib.pyplot as plt
+import plotly.express as px
+from plotly.offline import iplot
+import numpy as np
+import cufflinks as cf
+cf.go_offline()
+
+df_2010 = pd.read_csv("/Users/brunoroso/Downloads/Servidores/perfilservidor2010.csv" , sep = ';' , encoding='latin-1',low_memory=False)
+df_2011 = pd.read_csv("/Users/brunoroso/Downloads/Servidores/perfilservidor2011.csv" , sep = ';' , encoding='latin-1',low_memory=False)
+df_2012 = pd.read_csv("/Users/brunoroso/Downloads/Servidores/perfilservidor2012.csv" , sep = ';' , encoding='latin-1',low_memory=False)
+df_2013 = pd.read_csv("/Users/brunoroso/Downloads/Servidores/perfilservidor2013.csv" , sep = ';' , encoding='latin-1',low_memory=False)
+df_2014 = pd.read_csv("/Users/brunoroso/Downloads/Servidores/perfilservidor2014.csv" , sep = ';' , encoding='latin-1',low_memory=False)
+df_2015 = pd.read_csv("/Users/brunoroso/Downloads/Servidores/perfilservidor2015.csv" , sep = ';' , encoding='latin-1',low_memory=False)
+df_2016 = pd.read_csv("/Users/brunoroso/Downloads/Servidores/perfilservidor2016.csv" , sep = ';' , encoding='latin-1',low_memory=False)
+df_2017 = pd.read_csv("/Users/brunoroso/Downloads/Servidores/perfilservidor2017.csv" , sep = ';' , encoding='latin-1',low_memory=False)
+df_2018 = pd.read_csv("/Users/brunoroso/Downloads/Servidores/perfilservidor2018.csv" , sep = ';' , encoding='latin-1',low_memory=False)
+df_2019 = pd.read_csv("/Users/brunoroso/Downloads/Servidores/perfilservidor2019.csv" , sep = ';' , encoding='latin-1',low_memory=False)
+
+df_2010.rename(columns={ 'CD_SERV_SME': 'CD_CAR_SERV_SME', "DATA_BASE": "DATA_BASE"}, inplace = True)
+df_2011.rename(columns={ 'CD_SERV_SME': 'CD_CAR_SERV_SME', "DATA_BASE_EOL": "DATA_BASE"}, inplace = True)
+df_2012.rename(columns={ 'CD_SERV_SME': 'CD_CAR_SERV_SME', "DATA_BASE": "DATA_BASE"}, inplace = True)
+df_2013.rename(columns={ 'CD_SERV_SME': 'CD_CAR_SERV_SME', "DATA_BASE": "DATA_BASE"}, inplace = True)
+df_2014.rename(columns={ 'CD_SERV_SME': 'CD_CAR_SERV_SME', "DATA_BASE": "DATA_BASE"}, inplace = True)
+df_2015.rename(columns={ 'CD_SERV_SME': 'CD_CAR_SERV_SME', "DATA_BASE": "DATA_BASE"}, inplace = True)
+df_2016.rename(columns={ 'CD_SERV_SME': 'CD_CAR_SERV_SME', "DATA_BASE": "DATA_BASE"}, inplace = True)
+df_2017.rename(columns={ 'CD_SERV_SME': 'CD_CAR_SERV_SME', "DATA BASE": "DATA_BASE"}, inplace = True)
+df_2018.rename(columns={ 'CD_SERV_SME': 'CD_CAR_SERV_SME', "DATA BASE": "DATA_BASE"}, inplace = True)
+df_2019.rename(columns={ 'CD_SERV_SME': 'CD_CAR_SERV_SME', "DATA_BASE": "DATA_BASE"}, inplace = True)
+
+df_2010['DATA_BASE'] = df_2010.DATA_BASE.map({"dez/10":"2010"})
+df_2011['DATA_BASE'] = df_2011.DATA_BASE.map({"dez/11":"2011"})
+df_2012['DATA_BASE'] = df_2012.DATA_BASE.map({"dez/12":"2012"})
+df_2013['DATA_BASE'] = df_2013.DATA_BASE.map({"dez/13":"2013"})
+df_2014['DATA_BASE'] = df_2014.DATA_BASE.map({"dez/14":"2014"})
+df_2015['DATA_BASE'] = df_2015.DATA_BASE.map({"dez/15":"2015"})
+df_2016['DATA_BASE'] = df_2016.DATA_BASE.map({"dez/16":"2016"})
+df_2017['DATA_BASE'] = df_2017.DATA_BASE.map({"dez/17":"2017"})
+df_2018['DATA_BASE'] = df_2018.DATA_BASE.map({"dez/18":"2018"})
+df_2019['DATA_BASE'] = df_2019.DATA_BASE.map({"Dez de 2019":"2019" })
+frames = [df_2010, df_2011, df_2012,df_2013, df_2014, df_2015, df_2016,df_2017, df_2018, df_2019]
+
+df_2010_2019 = pd.concat(frames, sort = True)
+
+df_2010_2019['TP_UNIDADE_ATUAL2'] = df_2010_2019.TP_UNIDADE_ATUAL.map({
+                                            
+    "EMEF":"EMEF",
+    "EMEI":"EMEI",                             
+    "CEI DIRET":"CEI DIRET",
+    "CEU EMEF":"CEU EMEF",                                        
+    "CEU CEI":"CEU CEI",
+    "DIR EDUC":"DREs",                                     
+    "CEU EMEI":"CEU EMEI",
+    "CEU":"CEU",                                       
+    "CEMEI":"CEMEI",
+    "EMEFM":"EMEFM",                                        
+    "CIEJA":"CIEJA",
+    "EMEE":"EMEBS" ,
+    "EMEBS":"EMEBS",                                     
+    "COORD":"SME",
+    "FORA DE SME":"FORA DE SME",                                      
+    "NUCLEO":"SME",
+    "SME":"SME",
+    "CONAE":"SME",
+    "CONAE2":"SME",
+    "OUT-PMSP":"SME",                                       
+    "CMCT":"OUTRAS ESCOLAS",
+    "VIRTUAL":"SME",                                        
+    "CCI/CIPS":"OUTRAS ESCOLAS",
+    "DIVISAO":"SME",
+    })
+
+                          
+		df_final = pd.crosstab(df_2010_2019.TP_UNIDADE_ATUAL2, df_2010_2019.DATA_BASE) 
+		
+		df_final.to_csv (r'/Users/brunoroso/Downloads/Servidores/teste.csv', index = True, header=True)
